@@ -42,7 +42,7 @@ Crie apenas uma tela para cada uma das tarefas contendo apenas o título a fim d
 
 ### Passo a Passo da sua participação
 - Construir a aplicação solicitada;
-- Enviar o link do projeto no github para o e-mail: digital@handson-ti.com.br;
+- Enviar o link do projeto no github para o e-mail: victor.monteiro@handson-ti.com.br;
 - Juntamente com o link acima mencionado nos envie também o seu curriculum atualizado;
 - Informar pretenção salarial;
 - Informe também sua disponibilidade para ínicio das atividades caso venha a fazer parte de nossa equipe.
